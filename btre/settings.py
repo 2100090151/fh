@@ -26,7 +26,7 @@ SECRET_KEY = '%k$)@g-na_%h@^&od@g_cf+8-@c2wzph0a-k0#g8l#@elrq=w='
 DEBUG = True
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['web-production-93b5.up.railway.app' ]
 
 # Application definition
 
